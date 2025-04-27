@@ -452,7 +452,7 @@
 {"character":"傏","pattern":"⿰","composition":"亻 唐","dependencies":"亻 广 唐","dependents":""}
 {"character":"傐","pattern":"⿰","composition":"亻 高","dependencies":"亻 亠 口 冂 高","dependents":""}
 {"character":"傑","pattern":"⿰","composition":"亻 桀","dependencies":"亻 夕 舛 木 桀","dependents":""}
-{"character":"傒","pattern":"⿰","composition":"亻 奚","dependencies":"亻 大 奚","dependents":""}
+{"character":"傒","pattern":"⿰","composition":"亻 奚","dependencies":"亻 爫 幺 大 奚","dependents":""}
 {"character":"傓","pattern":"⿰","composition":"亻 扇","dependencies":"亻 羽 扇","dependents":""}
 {"character":"傔","pattern":"⿰","composition":"亻 兼","dependencies":"亻 䒑 兼","dependents":""}
 {"character":"傕","pattern":"⿰","composition":"亻 隺","dependencies":"亻 隺","dependents":""}
@@ -696,7 +696,7 @@
 {"character":"凜","pattern":"⿰","composition":"冫 稟","dependencies":"冫 亠 囗 口 回 禾 稟","dependents":""}
 {"character":"凝","pattern":"⿰","composition":"冫 疑","dependencies":"冫 匕 矢 疑","dependents":""}
 {"character":"凞","pattern":"⿰","composition":"冫 熈","dependencies":"冫 丿 臣 巳 灬 熈","dependents":""}
-{"character":"几","pattern":"","composition":"","dependencies":"","dependents":"亢 亮 伉 冗 凡 凢 凥 処 凭 凮 凱 凳 凴 劥 匓 匟 吭 咒 喨 囥 坑 墼 壂 壳 夙 媺 媻 嬴 巩 帆 幋 廏 彀 役 忼 恐 愨 慇 投 抗 拠 搬 摋 撃 擊 机 杭 梵 椴 榖 槃 櫈 殁 殳 殴 段 殷 殸 殹 殺 殻 殼 殽 殾 殿 毀 毃 毄 毅 毆 毇 毈 毉 汎 沆 沉 没 沿 澱 瀊 瀛 炕 焭 煅 燬 牨 疫 痜 瘢 癜 盤 瞖 磐 磤 磬 祋 秔 穀 竌 筑 築 籝 籯 粇 糓 緞 縠 繄 繋 繫 罄 羖 羸 翳 聲 肌 股 臀 臋 臝 航 般 芁 芃 芟 葮 蔎 藙 蘙 處 蛩 螌 蟿 蠃 蠮 觳 設 謦 譭 豛 贏 跫 轂 迒 酘 醫 釩 銎 鍛 鎩 鏧 鑿 閌 阬 鞏 鞶 頏 頽 飢 馨 驘 骪 骯 骰 髠 鳧 鳬 鳳 鷇 鷖 麂 㠶 㸿 䡄 𡷠 𣪘 𧏚"}
+{"character":"几","pattern":"","composition":"","dependencies":"","dependents":"亢 亮 伉 冗 凡 凢 凥 処 凭 凮 凱 凳 凴 劥 匓 匟 吭 咒 喨 囥 坑 墢 墼 壂 壳 夙 媺 媻 嬴 巩 帆 幋 廏 廢 彀 役 忼 恐 愨 慇 投 抗 拠 搬 摋 撃 撥 擊 机 杭 梵 椴 榖 槃 櫈 殁 殳 殴 段 殷 殸 殹 殺 殻 殼 殽 殾 殿 毀 毃 毄 毅 毆 毇 毈 毉 汎 沆 沉 没 沿 潑 澱 瀊 瀛 炕 焭 煅 燬 牨 疫 痜 瘢 癈 癜 發 盤 瞖 磐 磤 磬 祋 秔 穀 竌 筑 築 籝 籯 粇 糓 緞 縠 繄 繋 繫 罄 羖 羸 翳 聲 肌 股 臀 臋 臝 航 般 芁 芃 芟 葮 蔎 蕟 藙 蘙 處 蛩 螌 蟿 蠃 蠮 襏 觳 設 謦 譭 豛 贏 跫 轂 迒 酘 醫 醱 釩 銎 鍛 鎩 鏧 鏺 鑿 閌 阬 鞏 鞶 頏 頽 飢 馨 驋 驘 骪 骯 骰 髠 鳧 鳬 鳳 鷇 鷖 麂 㠶 㸿 䡄 𡷠 𣪘 𧏚"}
 {"character":"凡","pattern":"⿵","composition":"几 丶","dependencies":"几 丶","dependents":"凮 嬴 巩 帆 恐 梵 汎 瀛 筑 築 籝 籯 羸 臝 芃 蛩 蠃 贏 跫 釩 銎 鞏 驘 骪"}
 {"character":"凢","pattern":"⿱","composition":"丿 几","dependencies":"丿 几","dependents":"㠶"}
 {"character":"凥","pattern":"⿸","composition":"尸 几","dependencies":"尸 几","dependents":""}
@@ -1047,7 +1047,7 @@
 {"character":"参","pattern":"⿱","composition":"彡","dependencies":"彡","dependents":"惨 渗 鯵"}
 {"character":"參","pattern":"⿱","composition":"彡","dependencies":"厶 厸 厽 𠆢 彡","dependents":"傪 嘇 墋 嵾 慘 摻 槮 毿 滲 穇 篸 糝 縿 蔘 襂 醦 驂 鬖 鰺 黲"}
 {"character":"叅","pattern":"⿱","composition":"","dependencies":"厶 厸 厽 𠆢","dependents":"撡"}
-{"character":"又","pattern":"","composition":"","dependencies":"","dependents":"亂 仮 伎 伖 伮 侵 俶 傁 冣 凾 剟 努 匓 叉 友 双 反 収 叏 叒 叓 叔 叕 取 受 叙 叛 叝 叞 叟 叠 叡 叢 吱 呶 啜 嗓 嘬 嚄 圣 坂 埾 堅 報 墁 墼 壂 壑 壡 奴 妓 娵 娶 婌 媛 媻 嫂 嫚 孥 孯 寂 寖 寝 寢 屐 岐 嵈 帑 幋 幔 庋 庪 廋 廏 弢 弩 彀 彠 役 忮 怒 怓 怪 惄 惙 愨 慅 慇 慢 慳 戄 扠 扳 技 投 抜 拏 掇 授 掔 掫 掻 援 搔 搜 搬 摋 撃 撮 擊 擭 攫 支 攱 攲 敠 昄 暖 曼 最 服 杈 板 枝 桑 梫 棷 椒 椴 楥 楹 榖 槃 槾 樫 樶 樷 檴 欆 欉 歠 歧 殁 殩 殳 殴 段 殷 殸 殹 殺 殻 殼 殽 殾 殿 毀 毃 毄 毅 毆 毇 毈 毉 汊 汳 没 浸 淑 湲 溲 漫 澯 澱 濩 瀊 瀣 灇 焏 煅 煖 熳 燦 燬 燮 爰 版 猨 獲 玃 瑗 璨 瓪 畈 畷 疫 瘙 瘢 瘦 癜 皈 盈 盤 督 瞍 瞖 瞽 矍 矱 砮 磉 磐 磤 磬 礥 祋 祲 穀 穝 穫 竪 笯 箙 篗 籆 籰 粲 糓 糔 経 綅 綬 綴 緅 緊 緞 緩 縠 縵 繄 繋 繫 罄 羖 翅 翳 聚 聲 肞 股 肢 腎 膄 臀 臋 臤 舨 般 艘 艧 艭 芟 芰 菔 菽 葠 葮 蒦 蔎 蔓 蕞 蕿 藂 藙 蘐 蘙 蘰 蚑 蚤 蝃 蝯 螋 螌 蟿 蠖 蠮 蠼 衩 裰 覶 觳 設 詉 詜 諏 諔 諼 謦 謾 譭 護 豉 豎 豛 貜 販 賢 赧 趣 跂 踧 躞 躩 軽 輙 輟 轂 辤 辭 返 郰 鄹 酘 醊 醫 釵 鈑 鈘 鋟 鋬 鋷 鋻 錣 鍛 鍰 鎩 鏗 鏝 鏧 鑊 鑿 钁 閿 阪 陬 隻 雘 雙 靫 鞶 韄 頍 頚 顙 颼 飯 餐 餟 饅 馨 馭 駑 駸 騒 騷 驟 骰 髪 鬘 魬 鮼 鯫 鰀 鰹 鰻 鳷 鴑 鵩 鷇 鷖 鼓 鼕 鼖 鼗 鼙 鼚 鼛 鼟 齱 㕝 㕞 㝡 㩳 𠬝 𡌛 𡵢 𡷠 𢅻 𣪘 𣷺 𤘩 𤰖 𥁊 𦙾 𦫿 𧏚"}
+{"character":"又","pattern":"","composition":"","dependencies":"","dependents":"亂 仮 伎 伖 伮 侵 俶 傁 冣 凾 剟 努 匓 叉 友 双 反 収 叏 叒 叓 叔 叕 取 受 叙 叛 叝 叞 叟 叠 叡 叢 吱 呶 啜 嗓 嘬 嚄 圣 坂 埾 堅 報 墁 墢 墼 壂 壑 壡 奴 妓 娵 娶 婌 媛 媻 嫂 嫚 孥 孯 寂 寖 寝 寢 屐 岐 嵈 帑 幋 幔 庋 庪 廋 廏 廢 弢 弩 彀 彠 役 忮 怒 怓 怪 惄 惙 愨 慅 慇 慢 慳 戄 扠 扳 技 投 抜 拏 掇 授 掔 掫 掻 援 搔 搜 搬 摋 撃 撥 撮 擊 擭 攫 支 攱 攲 敠 昄 暖 曼 最 服 杈 板 枝 桑 梫 棷 椒 椴 楥 楹 榖 槃 槾 樫 樶 樷 檴 欆 欉 歠 歧 殁 殩 殳 殴 段 殷 殸 殹 殺 殻 殼 殽 殾 殿 毀 毃 毄 毅 毆 毇 毈 毉 汊 汳 没 浸 淑 湲 溲 漫 潑 澯 澱 濩 瀊 瀣 灇 焏 煅 煖 熳 燦 燬 燮 爰 版 猨 獲 玃 瑗 璨 瓪 畈 畷 疫 瘙 瘢 瘦 癈 癜 發 皈 盈 盤 督 瞍 瞖 瞽 矍 矱 砮 磉 磐 磤 磬 礥 祋 祲 穀 穝 穫 竪 笯 箙 篗 籆 籰 粲 糓 糔 経 綅 綬 綴 緅 緊 緞 緩 縠 縵 繄 繋 繫 罄 羖 翅 翳 聚 聲 肞 股 肢 腎 膄 臀 臋 臤 舨 般 艘 艧 艭 芟 芰 菔 菽 葠 葮 蒦 蔎 蔓 蕞 蕟 蕿 藂 藙 蘐 蘙 蘰 蚑 蚤 蝃 蝯 螋 螌 蟿 蠖 蠮 蠼 衩 裰 襏 覶 觳 設 詉 詜 諏 諔 諼 謦 謾 譭 護 豉 豎 豛 貜 販 賢 赧 趣 跂 踧 躞 躩 軽 輙 輟 轂 辤 辭 返 郰 鄹 酘 醊 醫 醱 釵 鈑 鈘 鋟 鋬 鋷 鋻 錣 鍛 鍰 鎩 鏗 鏝 鏧 鏺 鑊 鑿 钁 閿 阪 陬 隻 雘 雙 靫 鞶 韄 頍 頚 顙 颼 飯 餐 餟 饅 馨 馭 駑 駸 騒 騷 驋 驟 骰 髪 鬘 魬 鮼 鯫 鰀 鰹 鰻 鳷 鴑 鵩 鷇 鷖 鼓 鼕 鼖 鼗 鼙 鼚 鼛 鼟 齱 㕝 㕞 㝡 㩳 𠬝 𡌛 𡵢 𡷠 𢅻 𣪘 𣷺 𤘩 𤰖 𥁊 𦙾 𦫿 𧏚"}
 {"character":"叉","pattern":"⿴","composition":"又 丶","dependencies":"又 丶","dependents":"慅 扠 搔 杈 汊 瘙 糔 肞 蚤 衩 釵 靫 騷"}
 {"character":"及","pattern":"","composition":"","dependencies":"","dependents":"伋 吸 圾 岌 扱 极 汲 笈 級 芨 衱 訯 鈒 靸 馺 魥 﨤"}
 {"character":"友","pattern":"⿸","composition":"又","dependencies":"又","dependents":"伖 媛 嵈 抜 援 暖 楥 湲 煖 爰 猨 瑗 緩 蕿 蘐 蝯 諼 鍰 髪 鰀 𡵢 𥁊"}
@@ -1374,7 +1374,7 @@
 {"character":"嗓","pattern":"⿰","composition":"口 桑","dependencies":"口 又 双 叒 木 桑","dependents":""}
 {"character":"嗔","pattern":"⿰","composition":"口 真","dependencies":"口 十 目 具 真","dependents":""}
 {"character":"嗗","pattern":"⿰","composition":"口 骨","dependencies":"口 冎 骨","dependents":""}
-{"character":"嗘","pattern":"⿰","composition":"口 奚","dependencies":"口 大 奚","dependents":""}
+{"character":"嗘","pattern":"⿰","composition":"口 奚","dependencies":"口 爫 幺 大 奚","dependents":""}
 {"character":"嗚","pattern":"⿰","composition":"口 烏","dependencies":"口 灬 烏","dependents":""}
 {"character":"嗛","pattern":"⿰","composition":"口 兼","dependencies":"口 䒑 兼","dependents":""}
 {"character":"嗜","pattern":"⿰","composition":"口 耆","dependencies":"口 耂 匕 老 日 耆","dependents":""}
@@ -1495,7 +1495,7 @@
 {"character":"嚮","pattern":"⿱","composition":"向","dependencies":"丿 冂 口 向","dependents":""}
 {"character":"嚱","pattern":"⿰","composition":"口 戲","dependencies":"口 虍 一 䒑 豆 戈 戲","dependents":""}
 {"character":"嚲","pattern":"⿰","composition":"享 單","dependencies":"亠 口 子 享 單","dependents":""}
-{"character":"嚳","pattern":"⿱","composition":"𦥯 告","dependencies":"𦥑 爻 冖 𦥯 口 告","dependents":""}
+{"character":"嚳","pattern":"⿱","composition":"𦥯 告","dependencies":"𦥑 冖 爻 𦥯 口 告","dependents":""}
 {"character":"嚴","pattern":"⿸ ⿱","composition":"厂 敢","dependencies":"口 厂 工 攵 攻 敢","dependents":"儼 巖 巗 曮 玁 讝 釅"}
 {"character":"嚶","pattern":"⿰","composition":"口 嬰","dependencies":"口 貝 賏 女 嬰","dependents":""}
 {"character":"嚷","pattern":"⿰","composition":"口 襄","dependencies":"口 衣 襄","dependents":""}
@@ -1796,7 +1796,7 @@
 {"character":"墟","pattern":"⿰","composition":"土 虚","dependencies":"土 虍 虚","dependents":""}
 {"character":"墠","pattern":"⿰","composition":"土 單","dependencies":"土 口 單","dependents":""}
 {"character":"墡","pattern":"⿰","composition":"土 善","dependencies":"土 羊 䒑 口 善","dependents":""}
-{"character":"墢","pattern":"⿰","composition":"土 發","dependencies":"土 癶 發","dependents":""}
+{"character":"墢","pattern":"⿰","composition":"土 發","dependencies":"土 癶 几 又 殳 弓 發","dependents":""}
 {"character":"墦","pattern":"⿰","composition":"土 番","dependencies":"土 釆 田 番","dependents":""}
 {"character":"墨","pattern":"⿱","composition":"黑 土","dependencies":"黑 土","dependents":"壥 濹 纆 纒 𦪷"}
 {"character":"墩","pattern":"⿰","composition":"土 敦","dependencies":"土 亠 口 子 享 攵 敦","dependents":""}
@@ -1922,7 +1922,7 @@
 {"character":"套","pattern":"⿱","composition":"大 镸","dependencies":"大 镸","dependents":""}
 {"character":"奘","pattern":"⿱","composition":"壯 大","dependencies":"爿 士 壯 大","dependents":""}
 {"character":"奙","pattern":"⿱","composition":"","dependencies":"","dependents":""}
-{"character":"奚","pattern":"⿱","composition":"大","dependencies":"大","dependents":"傒 嗘 嵠 徯 溪 磎 膎 螇 謑 谿 蹊 雞 鞵 騱 鷄 鸂 鼷"}
+{"character":"奚","pattern":"⿱","composition":"爫","dependencies":"爫 幺 大","dependents":"傒 嗘 嵠 徯 溪 磎 膎 螇 謑 谿 蹊 雞 鞵 騱 鷄 鸂 鼷"}
 {"character":"奛","pattern":"⿱","composition":"大 明","dependencies":"大 日 月 明","dependents":""}
 {"character":"奝","pattern":"⿱","composition":"大 周","dependencies":"大 用 口 周","dependents":""}
 {"character":"奞","pattern":"⿱","composition":"大 隹","dependencies":"大 隹","dependents":"奪 奮"}
@@ -2193,7 +2193,7 @@
 {"character":"孱","pattern":"⿸","composition":"尸 孨","dependencies":"尸 子 孖 孨","dependents":"僝 潺 轏"}
 {"character":"孳","pattern":"⿱","composition":"子","dependencies":"䒑 幺 子","dependents":""}
 {"character":"孵","pattern":"⿰","composition":"卵 孚","dependencies":"丶 卩 卵 爫 子 孚","dependents":""}
-{"character":"學","pattern":"⿱","composition":"𦥯 子","dependencies":"𦥑 爻 冖 𦥯 子","dependents":"斅"}
+{"character":"學","pattern":"⿱","composition":"𦥯 子","dependencies":"𦥑 冖 爻 𦥯 子","dependents":"斅"}
 {"character":"孺","pattern":"⿰","composition":"子 需","dependencies":"子 雨 而 需","dependents":""}
 {"character":"孼","pattern":"⿱","composition":"辥 子","dependencies":"𠂤 辛 辥 子","dependents":""}
 {"character":"孽","pattern":"⿰","composition":"薛 子","dependencies":"艹 𠂤 辛 薛 子","dependents":""}
@@ -2501,7 +2501,7 @@
 {"character":"嵙","pattern":"⿱","composition":"山 科","dependencies":"山 禾 斗 科","dependents":""}
 {"character":"嵜","pattern":"⿱","composition":"山 竒","dependencies":"山 口 可 竒","dependents":""}
 {"character":"嵟","pattern":"⿸","composition":"屵 隹","dependencies":"山 厂 屵 隹","dependents":""}
-{"character":"嵠","pattern":"⿰","composition":"山 奚","dependencies":"山 大 奚","dependents":""}
+{"character":"嵠","pattern":"⿰","composition":"山 奚","dependencies":"山 爫 幺 大 奚","dependents":""}
 {"character":"嵡","pattern":"⿱","composition":"山 翁","dependencies":"山 八 厶 公 羽 翁","dependents":""}
 {"character":"嵢","pattern":"⿰","composition":"山 倉","dependencies":"山 𠆢 一 亼 口 合 倉","dependents":""}
 {"character":"嵤","pattern":"⿱","composition":"𤇾 山","dependencies":"火 冖 𤇾 山","dependents":""}
@@ -2667,7 +2667,7 @@
 {"character":"幷","pattern":"⿰ ⿱ ⿱","composition":"丿 干 丿 干","dependencies":"丿 干","dependents":"倂 屛 帲 甁 輧 逬 餠"}
 {"character":"幸","pattern":"⿱","composition":"土","dependencies":"土 丶 丿 干","dependents":"倖 圉 圛 執 報 墊 婞 嶧 悻 懌 摯 擇 斁 曎 檡 歝 殬 涬 漐 澤 睪 睾 籜 縶 繹 蓻 蘀 蟄 褺 襗 譯 贄 逹 醳 釋 鐸 驛 鷙"}
 {"character":"幹","pattern":"⿸ ⿰","composition":"𠦝 𠆢 干","dependencies":"十 日 𠦝 𠆢 干","dependents":"澣 簳"}
-{"character":"幺","pattern":"","composition":"","dependencies":"","dependents":"乣 呦 嗞 坳 孳 幻 幼 幽 慈 懡 拗 擽 樂 櫟 泑 滋 濨 濼 爍 狕 甆 皪 磁 礠 礫 禌 稵 窈 糍 聨 聯 胤 苭 茲 藥 蚴 螆 躒 轢 酳 鎡 鑠 關 靿 鰦 鶿 鷀 麼 黝 𦱳 𩝐"}
+{"character":"幺","pattern":"","composition":"","dependencies":"","dependents":"乣 傒 呦 嗘 嗞 坳 奚 孳 嵠 幻 幼 幽 徯 慈 懡 拗 擽 樂 櫟 泑 溪 滋 濨 濼 爍 狕 甆 皪 磁 磎 礠 礫 禌 稵 窈 糍 聨 聯 胤 膎 苭 茲 藥 蚴 螆 螇 謑 谿 蹊 躒 轢 酳 鎡 鑠 關 雞 靿 鞵 騱 鰦 鶿 鷀 鷄 鸂 麼 黝 鼷 𦱳 𩝐"}
 {"character":"幻","pattern":"⿰","composition":"幺","dependencies":"幺","dependents":""}
 {"character":"幼","pattern":"⿰","composition":"幺 力","dependencies":"幺 力","dependents":"呦 坳 拗 泑 狕 窈 苭 蚴 靿 黝"}
 {"character":"幽","pattern":"⿻","composition":"山","dependencies":"山 幺","dependents":""}
@@ -2735,7 +2735,7 @@
 {"character":"廟","pattern":"⿸","composition":"广 朝","dependencies":"广 十 日 𠦝 月 朝","dependents":""}
 {"character":"廠","pattern":"⿸","composition":"广 敞","dependencies":"广 冂 口 冋 尚 攵 敞","dependents":""}
 {"character":"廡","pattern":"⿸","composition":"广 無","dependencies":"广 灬 無","dependents":""}
-{"character":"廢","pattern":"⿸","composition":"广 發","dependencies":"广 癶 發","dependents":""}
+{"character":"廢","pattern":"⿸","composition":"广 發","dependencies":"广 癶 几 又 殳 弓 發","dependents":""}
 {"character":"廣","pattern":"⿸","composition":"广 黃","dependencies":"广 黃","dependents":"儣 兤 嚝 壙 彍 懬 懭 擴 曠 瀇 獷 礦 纊 鄺 鑛 𠢹"}
 {"character":"廥","pattern":"⿸","composition":"广 會","dependencies":"广 𠆢 一 亼 會","dependents":""}
 {"character":"廨","pattern":"⿸","composition":"广 解","dependencies":"广 角 牛 刀 解","dependents":""}
@@ -2773,7 +2773,7 @@
 {"character":"式","pattern":"⿹","composition":"弋 工","dependencies":"弋 工","dependents":"侙 弑 拭 栻 試 軾 鉽"}
 {"character":"弐","pattern":"⿻","composition":"弍 一","dependencies":"弋 二 弍 一","dependents":""}
 {"character":"弑","pattern":"⿰","composition":"式","dependencies":"木 弋 工 式","dependents":""}
-{"character":"弓","pattern":"","composition":"","dependencies":"","dependents":"勥 匑 嫋 宆 宖 嵶 嵹 引 弖 弘 弙 弛 弜 弝 弞 弡 弢 弣 弤 弥 弦 弧 弨 弩 弫 弬 弭 弮 弯 弰 弱 弴 張 弶 強 弸 弻 弼 弽 弾 弿 彀 彁 彄 彅 彇 彈 彊 彌 彍 彎 愵 搦 榒 泓 湾 溺 漲 瀰 灣 獼 矤 矧 穹 窮 篛 粥 紖 紭 繦 芎 蒻 蔃 藭 蚓 襁 訠 躬 鏹 霛 靷 鬻 鰯 鶸 麛 𢎭 𥫤 𦿶"}
+{"character":"弓","pattern":"","composition":"","dependencies":"","dependents":"勥 匑 墢 嫋 宆 宖 嵶 嵹 廢 引 弖 弘 弙 弛 弜 弝 弞 弡 弢 弣 弤 弥 弦 弧 弨 弩 弫 弬 弭 弮 弯 弰 弱 弴 張 弶 強 弸 弻 弼 弽 弾 弿 彀 彁 彄 彅 彇 彈 彊 彌 彍 彎 愵 搦 撥 榒 泓 湾 溺 漲 潑 瀰 灣 獼 癈 發 矤 矧 穹 窮 篛 粥 紖 紭 繦 芎 蒻 蔃 蕟 藭 蚓 襁 襏 訠 躬 醱 鏹 鏺 霛 靷 驋 鬻 鰯 鶸 麛 𢎭 𥫤 𦿶"}
 {"character":"弔","pattern":"","composition":"","dependencies":"","dependents":"俤 剃 娣 弟 悌 晜 梯 涕 睇 稊 第 綈 罤 豑 銻 鬀 鮷 鵜"}
 {"character":"引","pattern":"⿰","composition":"弓 丨","dependencies":"弓 丨","dependents":"矧 紖 蚓 訠 靷"}
 {"character":"弖","pattern":"⿱","composition":"弓 一","dependencies":"弓 一","dependents":""}
@@ -2896,7 +2896,7 @@
 {"character":"徬","pattern":"⿰","composition":"彳 旁","dependencies":"彳 方 旁","dependents":""}
 {"character":"徭","pattern":"⿰","composition":"彳 䍃","dependencies":"彳 缶 䍃","dependents":""}
 {"character":"微","pattern":"⿲","composition":"彳 攵","dependencies":"彳 山 兀 攵","dependents":"薇"}
-{"character":"徯","pattern":"⿰","composition":"彳 奚","dependencies":"彳 大 奚","dependents":""}
+{"character":"徯","pattern":"⿰","composition":"彳 奚","dependencies":"彳 爫 幺 大 奚","dependents":""}
 {"character":"徰","pattern":"⿰ ⿱","composition":"彳 正 正","dependencies":"彳 一 止 正","dependents":""}
 {"character":"徱","pattern":"⿰","composition":"彳 票","dependencies":"彳 覀 示 票","dependents":""}
 {"character":"徳","pattern":"⿰","composition":"彳","dependencies":"彳","dependents":""}
@@ -3710,7 +3710,7 @@
 {"character":"撡","pattern":"⿰","composition":"扌 叅","dependencies":"扌 厶 厸 厽 𠆢 叅","dependents":""}
 {"character":"撣","pattern":"⿰","composition":"扌 單","dependencies":"扌 口 單","dependents":""}
 {"character":"撤","pattern":"⿰","composition":"扌","dependencies":"扌 亠 厶 育 攵","dependents":""}
-{"character":"撥","pattern":"⿰","composition":"扌 發","dependencies":"扌 癶 發","dependents":""}
+{"character":"撥","pattern":"⿰","composition":"扌 發","dependencies":"扌 癶 几 又 殳 弓 發","dependents":""}
 {"character":"撦","pattern":"⿰","composition":"扌 奢","dependencies":"扌 大 耂 日 者 奢","dependents":""}
 {"character":"撨","pattern":"⿰","composition":"扌 焦","dependencies":"扌 隹 灬 焦","dependents":""}
 {"character":"撩","pattern":"⿰","composition":"扌 尞","dependencies":"扌 日 小 尞","dependents":""}
@@ -3794,7 +3794,7 @@
 {"character":"攤","pattern":"⿰","composition":"扌 難","dependencies":"扌 艹 𦰩 隹 難","dependents":""}
 {"character":"攦","pattern":"⿰","composition":"扌 麗","dependencies":"扌 一 冂 丶 鹿 麗","dependents":""}
 {"character":"攩","pattern":"⿰","composition":"扌 黨","dependencies":"扌 小 冖 口 黑 黨","dependents":""}
-{"character":"攪","pattern":"⿰","composition":"扌 覺","dependencies":"扌 𦥑 爻 冖 𦥯 見 覺","dependents":""}
+{"character":"攪","pattern":"⿰","composition":"扌 覺","dependencies":"扌 𦥑 冖 爻 𦥯 見 覺","dependents":""}
 {"character":"攫","pattern":"⿰","composition":"扌 矍","dependencies":"扌 目 隹 瞿 又 矍","dependents":""}
 {"character":"攬","pattern":"⿰","composition":"扌 覽","dependencies":"扌 見 覽","dependents":""}
 {"character":"攮","pattern":"⿰","composition":"扌 囊","dependencies":"扌 一 中 冖 囊","dependents":""}
@@ -3852,7 +3852,7 @@
 {"character":"斂","pattern":"⿰","composition":"僉 攵","dependencies":"𠆢 一 亼 口 人 从 僉 攵","dependents":"瀲 蘞"}
 {"character":"斃","pattern":"⿱","composition":"敝 死","dependencies":"㡀 攵 敝 歹 匕 死","dependents":""}
 {"character":"斄","pattern":"⿸","composition":"來","dependencies":"未 攵 厂 來","dependents":""}
-{"character":"斅","pattern":"⿰","composition":"學 攴","dependencies":"𦥑 爻 冖 𦥯 子 學 攴","dependents":""}
+{"character":"斅","pattern":"⿰","composition":"學 攴","dependencies":"𦥑 冖 爻 𦥯 子 學 攴","dependents":""}
 {"character":"文","pattern":"","composition":"","dependencies":"","dependents":"刘 剤 吝 対 嵃 彣 忞 悋 憫 斈 斉 斊 斌 斐 斑 斒 斕 旻 旼 汶 済 炆 玟 紊 紋 緕 芠 萕 虔 蚉 蚊 諺 贇 閔 閺 雯 顏 馼 㑪 𦜝 𨩱"}
 {"character":"斈","pattern":"⿱","composition":"文 子","dependencies":"文 子","dependents":""}
 {"character":"斉","pattern":"⿱","composition":"文","dependencies":"文","dependents":"剤 済 緕 萕 㑪 𦜝"}
@@ -4901,7 +4901,7 @@
 {"character":"殰","pattern":"⿰","composition":"歹 賣","dependencies":"歹 士 貝 買 賣","dependents":""}
 {"character":"殱","pattern":"⿰","composition":"歹 韯","dependencies":"歹 戈 十 𢦏 韭 韯","dependents":""}
 {"character":"殲","pattern":"⿰","composition":"歹 韱","dependencies":"歹 戈 人 从 韭 韱","dependents":""}
-{"character":"殳","pattern":"⿱","composition":"几 又","dependencies":"几 又","dependents":"匓 墼 壂 媻 幋 廏 彀 役 愨 慇 投 搬 摋 撃 擊 椴 榖 槃 殁 殴 段 殷 殸 殹 殺 殻 殼 殽 殾 殿 毀 毃 毄 毅 毆 毇 毈 毉 没 澱 瀊 煅 燬 疫 瘢 癜 盤 瞖 磐 磤 磬 祋 穀 糓 緞 縠 繄 繋 繫 罄 羖 翳 聲 股 臀 臋 般 芟 葮 蔎 藙 蘙 螌 蟿 蠮 觳 設 謦 譭 豛 轂 酘 醫 鍛 鎩 鏧 鑿 鞶 馨 骰 鷇 鷖 𡷠 𣪘 𧏚"}
+{"character":"殳","pattern":"⿱","composition":"几 又","dependencies":"几 又","dependents":"匓 墢 墼 壂 媻 幋 廏 廢 彀 役 愨 慇 投 搬 摋 撃 撥 擊 椴 榖 槃 殁 殴 段 殷 殸 殹 殺 殻 殼 殽 殾 殿 毀 毃 毄 毅 毆 毇 毈 毉 没 潑 澱 瀊 煅 燬 疫 瘢 癈 癜 發 盤 瞖 磐 磤 磬 祋 穀 糓 緞 縠 繄 繋 繫 罄 羖 翳 聲 股 臀 臋 般 芟 葮 蔎 蕟 藙 蘙 螌 蟿 蠮 襏 觳 設 謦 譭 豛 轂 酘 醫 醱 鍛 鎩 鏧 鏺 鑿 鞶 馨 驋 骰 鷇 鷖 𡷠 𣪘 𧏚"}
 {"character":"殴","pattern":"⿰","composition":"区 殳","dependencies":"匚 区 几 又 殳","dependents":""}
 {"character":"段","pattern":"⿰","composition":"殳","dependencies":"几 又 殳","dependents":"椴 毈 煅 緞 葮 鍛"}
 {"character":"殷","pattern":"⿰","composition":"㐆 殳","dependencies":"㐆 几 又 殳","dependents":"慇 磤"}
@@ -5355,7 +5355,7 @@
 {"character":"溢","pattern":"⿰","composition":"氵 益","dependencies":"氵 皿 益","dependents":""}
 {"character":"溥","pattern":"⿰","composition":"氵 尃","dependencies":"氵 甫 寸 尃","dependents":"欂 礴 簿 薄 鑮"}
 {"character":"溧","pattern":"⿰","composition":"氵 栗","dependencies":"氵 覀 木 栗","dependents":""}
-{"character":"溪","pattern":"⿰","composition":"氵 奚","dependencies":"氵 大 奚","dependents":"鸂"}
+{"character":"溪","pattern":"⿰","composition":"氵 奚","dependencies":"氵 爫 幺 大 奚","dependents":"鸂"}
 {"character":"溫","pattern":"⿰","composition":"氵 𥁕","dependencies":"氵 囗 人 囚 皿 𥁕","dependents":"薀"}
 {"character":"溭","pattern":"⿰","composition":"氵 畟","dependencies":"氵 田 夂 畟","dependents":""}
 {"character":"溮","pattern":"⿰","composition":"氵 師","dependencies":"氵 𠂤 一 巾 帀 師","dependents":""}
@@ -5450,7 +5450,7 @@
 {"character":"潁","pattern":"⿰ ⿱","composition":"匕 水 頁","dependencies":"匕 水 頁","dependents":""}
 {"character":"潅","pattern":"⿰","composition":"氵","dependencies":"氵 丿 一 𠂉 隹","dependents":""}
 {"character":"潏","pattern":"⿰","composition":"氵 矞","dependencies":"氵 矛 口 冏 矞","dependents":""}
-{"character":"潑","pattern":"⿰","composition":"氵 發","dependencies":"氵 癶 發","dependents":""}
+{"character":"潑","pattern":"⿰","composition":"氵 發","dependencies":"氵 癶 几 又 殳 弓 發","dependents":""}
 {"character":"潒","pattern":"⿰","composition":"氵 象","dependencies":"氵 象","dependents":""}
 {"character":"潓","pattern":"⿰","composition":"氵 惠","dependencies":"氵 心 惠","dependents":""}
 {"character":"潔","pattern":"⿰","composition":"氵 絜","dependencies":"氵 丰 刀 糸 絜","dependents":""}
@@ -5811,7 +5811,7 @@
 {"character":"爤","pattern":"⿰","composition":"火 蘭","dependencies":"火 艹 門 柬 闌 蘭","dependents":""}
 {"character":"爨","pattern":"⿱ ⿶","composition":"同","dependencies":"冂 一 口 同 木 林 大 火","dependents":""}
 {"character":"爪","pattern":"","composition":"","dependencies":"","dependents":"抓 枛 爬 爴 笊 釽"}
-{"character":"爫","pattern":"","composition":"","dependencies":"","dependents":"乳 乿 亂 俀 俘 偁 凈 嚼 埒 埓 埰 妥 娞 婇 媛 孚 孵 寀 寽 崢 嵈 彩 慆 挼 捊 捋 掙 採 援 搯 暖 桴 桵 棌 楥 檃 殍 浮 淨 渓 湲 滔 煖 熖 爝 爭 爯 爰 爵 猙 猨 瑗 瑫 皭 睜 睬 稃 稱 稲 稻 穏 箏 粰 綏 綵 緩 罦 脬 舀 艀 荽 莩 菜 蕿 蘐 虢 蜉 蝯 覓 覶 諼 謟 蹈 轁 辭 郛 酹 酻 釂 采 釉 鋝 鍰 隠 靜 鞖 鞱 韜 餒 饀 馟 鮾 鰀 鶏 㴞 㷔 𧮾 𨂻 𨺉 𨿸"}
+{"character":"爫","pattern":"","composition":"","dependencies":"","dependents":"乳 乿 亂 俀 俘 偁 傒 凈 嗘 嚼 埒 埓 埰 奚 妥 娞 婇 媛 孚 孵 寀 寽 崢 嵈 嵠 彩 徯 慆 挼 捊 捋 掙 採 援 搯 暖 桴 桵 棌 楥 檃 殍 浮 淨 渓 湲 溪 滔 煖 熖 爝 爭 爯 爰 爵 猙 猨 瑗 瑫 皭 睜 睬 磎 稃 稱 稲 稻 穏 箏 粰 綏 綵 緩 罦 脬 膎 舀 艀 荽 莩 菜 蕿 蘐 虢 蜉 蝯 螇 覓 覶 諼 謑 謟 谿 蹈 蹊 轁 辭 郛 酹 酻 釂 采 釉 鋝 鍰 隠 雞 靜 鞖 鞱 鞵 韜 餒 饀 馟 騱 鮾 鰀 鶏 鷄 鸂 鼷 㴞 㷔 𧮾 𨂻 𨺉 𨿸"}
 {"character":"爬","pattern":"⿺","composition":"爪 巴","dependencies":"爪 巴","dependents":""}
 {"character":"爭","pattern":"⿱","composition":"爫","dependencies":"爫","dependents":"凈 崢 掙 淨 猙 睜 箏 靜"}
 {"character":"爯","pattern":"⿱","composition":"爫 冉","dependencies":"爫 冉","dependents":"偁 稱"}
@@ -5995,7 +5995,7 @@
 {"character":"獞","pattern":"⿰","composition":"犭 童","dependencies":"犭 立 田 土 里 童","dependents":""}
 {"character":"獟","pattern":"⿰","composition":"犭 堯","dependencies":"犭 土 垚 兀 堯","dependents":""}
 {"character":"獠","pattern":"⿰","composition":"犭 尞","dependencies":"犭 日 小 尞","dependents":""}
-{"character":"獣","pattern":"⿰ ⿱ ⿱ ⿱","composition":"一 口 犬","dependencies":"一 口 犬","dependents":""}
+{"character":"獣","pattern":"⿰ ⿱ ⿱ ⿱","composition":"田 一 口 犬","dependencies":"田 一 口 犬","dependents":""}
 {"character":"獦","pattern":"⿰","composition":"犭 葛","dependencies":"犭 艹 曰 勹 人 匃 曷 葛","dependents":""}
 {"character":"獧","pattern":"⿰","composition":"犭 睘","dependencies":"犭 睘","dependents":""}
 {"character":"獨","pattern":"⿰","composition":"犭 蜀","dependencies":"犭 罒 勹 虫 蜀","dependents":""}
@@ -6279,7 +6279,7 @@
 {"character":"甫","pattern":"","composition":"","dependencies":"","dependents":"俌 傅 匍 博 哺 嚩 圃 圑 埔 尃 悑 愽 懯 捕 搏 敷 旉 晡 榑 欂 浦 溥 牖 痡 盙 礴 簙 簠 簿 縛 脯 膊 舖 舗 莆 葡 蒪 蒱 蒲 薄 蜅 補 誧 賻 輔 逋 郙 酺 鋪 鎛 鑮 餔 餺 髆 鬴 鯆 黼"}
 {"character":"甬","pattern":"⿱","composition":"用","dependencies":"用","dependents":"俑 勇 勈 埇 恿 愑 慂 桶 樋 涌 湧 痛 筩 蓪 蛹 誦 踊 踴 通 銿 鯒 𨫤 𨯁"}
 {"character":"甯","pattern":"⿱","composition":"用","dependencies":"宀 心 用","dependents":""}
-{"character":"田","pattern":"","composition":"","dependencies":"","dependents":"佃 侽 俚 偎 偪 偲 偶 僮 僵 儡 兾 冀 冨 副 劃 劓 勰 勱 勴 勵 匐 厘 厲 哩 喁 喂 喟 噃 噇 嚊 嚏 嚔 嚧 埋 堛 堺 塁 墅 墖 増 墦 壃 壘 壚 奮 娌 娚 嫐 嬲 嬶 嬸 富 寓 審 崽 嵎 嶓 幅 幡 幢 庽 庿 廙 廬 彊 彙 徸 思 悝 愊 愚 愢 慉 慮 憧 懥 戴 描 搐 撞 播 擂 擄 擋 擤 攄 旙 旛 曈 曽 梩 椳 楅 榴 榸 樏 橊 橎 橦 橿 檑 檔 櫐 櫑 櫔 櫖 櫨 殭 毗 毘 氎 沺 浬 淄 淠 渭 湢 湽 溜 溭 溿 滀 漯 潘 潼 澑 濞 濾 瀋 瀘 瀷 煨 燔 爈 爐 狸 猥 猫 猬 獞 獹 理 瑠 璠 璢 璫 瓐 瓼 甅 甥 男 甸 町 画 甼 甽 甾 甿 畀 畄 畆 畇 畈 畉 畊 畋 界 畍 畎 畏 畐 畑 畒 畔 畗 留 畚 畛 畜 畝 畞 畟 畠 畡 畤 略 畦 畧 畩 番 畫 畬 畭 畯 異 畱 畲 畳 畴 當 畷 畸 畹 畺 畻 畼 畽 畾 畿 疁 疂 疅 疆 疇 疉 疊 疐 痹 瘤 瘰 癅 癘 皤 盧 睤 瞄 瞳 矑 碨 磻 礌 礑 礧 礪 福 禑 禝 禩 禺 稫 稷 稸 穜 童 竰 簹 籀 籒 籓 籕 籚 糎 糞 糧 糲 累 細 緇 緢 緦 緭 縲 繙 繮 纍 纑 纝 罍 罏 罿 羀 翻 翼 耦 胃 腮 腷 膚 膰 臚 舅 艃 艟 艣 艫 苗 菑 萬 葍 葘 葸 蓄 蔂 蔔 蕃 蕫 蕾 薑 薶 藕 藘 藟 藩 蘅 蘆 蘽 虆 虜 蜔 蝟 蝠 螺 蟠 蟷 蠆 蠣 衡 裏 裡 襠 襣 諰 謂 謖 譒 讄 讅 貍 貓 贎 蹯 蹱 躉 輜 輺 輻 轓 轤 逼 遇 遛 邁 鄐 鄱 里 野 量 釐 鈿 鋰 錙 錨 鍶 鍿 鎦 鏍 鐂 鐇 鐘 鐳 鐺 鑢 鑪 隅 隈 雷 霤 霾 靁 韁 顋 顒 顱 颸 飅 飜 餵 餾 騮 騾 驑 驢 驥 髃 髗 鯉 鯔 鰏 鰓 鰡 鱩 鱸 鴫 鶓 鶹 鷭 鸕 黒 黙 黸 鼺 鼻 鼼 鼽 鼾 鼿 齁 齃 齄 齅 齆 齇 齵 㭷 㽗 䚡 𠺕 𡌛 𡢽 𡽶 𣘸 𣜜 𤰖 𥽜 𦹀 𨦻"}
+{"character":"田","pattern":"","composition":"","dependencies":"","dependents":"佃 侽 俚 偎 偪 偲 偶 僮 僵 儡 兾 冀 冨 副 劃 劓 勰 勱 勴 勵 匐 厘 厲 哩 喁 喂 喟 噃 噇 嚊 嚏 嚔 嚧 埋 堛 堺 塁 墅 墖 増 墦 壃 壘 壚 奮 娌 娚 嫐 嬲 嬶 嬸 富 寓 審 崽 嵎 嶓 幅 幡 幢 庽 庿 廙 廬 彊 彙 徸 思 悝 愊 愚 愢 慉 慮 憧 懥 戴 描 搐 撞 播 擂 擄 擋 擤 攄 旙 旛 曈 曽 梩 椳 楅 榴 榸 樏 橊 橎 橦 橿 檑 檔 櫐 櫑 櫔 櫖 櫨 殭 毗 毘 氎 沺 浬 淄 淠 渭 湢 湽 溜 溭 溿 滀 漯 潘 潼 澑 濞 濾 瀋 瀘 瀷 煨 燔 爈 爐 狸 猥 猫 猬 獞 獣 獹 理 瑠 璠 璢 璫 瓐 瓼 甅 甥 男 甸 町 画 甼 甽 甾 甿 畀 畄 畆 畇 畈 畉 畊 畋 界 畍 畎 畏 畐 畑 畒 畔 畗 留 畚 畛 畜 畝 畞 畟 畠 畡 畤 略 畦 畧 畩 番 畫 畬 畭 畯 異 畱 畲 畳 畴 當 畷 畸 畹 畺 畻 畼 畽 畾 畿 疁 疂 疅 疆 疇 疉 疊 疐 痹 瘤 瘰 癅 癘 皤 盧 睤 瞄 瞳 矑 碨 磻 礌 礑 礧 礪 福 禑 禝 禩 禺 稫 稷 稸 穜 童 竰 簹 籀 籒 籓 籕 籚 糎 糞 糧 糲 累 細 緇 緢 緦 緭 縲 繙 繮 纍 纑 纝 罍 罏 罿 羀 翻 翼 耦 胃 腮 腷 膚 膰 臚 舅 艃 艟 艣 艫 苗 菑 萬 葍 葘 葸 蓄 蔂 蔔 蕃 蕫 蕾 薑 薶 藕 藘 藟 藩 蘅 蘆 蘽 虆 虜 蜔 蝟 蝠 螺 蟠 蟷 蠆 蠣 衡 裏 裡 襠 襣 諰 謂 謖 譒 讄 讅 貍 貓 贎 蹯 蹱 躉 輜 輺 輻 轓 轤 逼 遇 遛 邁 鄐 鄱 里 野 量 釐 鈿 鋰 錙 錨 鍶 鍿 鎦 鏍 鐂 鐇 鐘 鐳 鐺 鑢 鑪 隅 隈 雷 霤 霾 靁 韁 顋 顒 顱 颸 飅 飜 餵 餾 騮 騾 驑 驢 驥 髃 髗 鯉 鯔 鰏 鰓 鰡 鱩 鱸 鴫 鶓 鶹 鷭 鸕 黒 黙 黸 鼺 鼻 鼼 鼽 鼾 鼿 齁 齃 齄 齅 齆 齇 齵 㭷 㽗 䚡 𠺕 𡌛 𡢽 𡽶 𣘸 𣜜 𤰖 𥽜 𦹀 𨦻"}
 {"character":"由","pattern":"","composition":"","dependencies":"","dependents":"伷 俜 冑 妯 娉 宙 届 岫 廸 抽 柚 油 甹 秞 笛 紬 聘 胄 腗 舳 蚰 袖 褏 軸 迪 釉 鈾 頔 騁 鮋 鼬 㹨"}
 {"character":"甲","pattern":"","composition":"","dependencies":"","dependents":"匣 厴 呷 岬 押 柙 狎 筪 翈 胛 舺 鉀 閘 鴨"}
 {"character":"申","pattern":"","composition":"","dependencies":"","dependents":"伸 呻 坤 抻 敒 暢 柛 榊 珅 畃 眒 砷 神 紳 訷 鉮 鰰 䨩 䰠 𨕫"}
@@ -6484,7 +6484,7 @@
 {"character":"癅","pattern":"⿸","composition":"疒 畱","dependencies":"疒 田 畱","dependents":""}
 {"character":"癆","pattern":"⿸","composition":"疒 勞","dependencies":"疒 火 冖 𤇾 力 勞","dependents":""}
 {"character":"癇","pattern":"⿸","composition":"疒","dependencies":"疒 門 月","dependents":""}
-{"character":"癈","pattern":"⿸","composition":"疒 發","dependencies":"疒 癶 發","dependents":""}
+{"character":"癈","pattern":"⿸","composition":"疒 發","dependencies":"疒 癶 几 又 殳 弓 發","dependents":""}
 {"character":"癉","pattern":"⿸","composition":"疒 單","dependencies":"疒 口 單","dependents":""}
 {"character":"癊","pattern":"⿸","composition":"疒 陰","dependencies":"疒 𠆢 一 亼 今 二 厶 云 侌 陰","dependents":""}
 {"character":"癋","pattern":"⿸","composition":"疒 惡","dependencies":"疒 亞 心 惡","dependents":""}
@@ -6516,7 +6516,7 @@
 {"character":"癸","pattern":"⿱","composition":"癶 天","dependencies":"癶 一 大 天","dependents":"戣 揆 暌 猤 睽 葵 鄈 闋 騤"}
 {"character":"発","pattern":"⿱","composition":"癶","dependencies":"癶","dependents":"廃 溌 醗"}
 {"character":"登","pattern":"⿱","composition":"癶 豆","dependencies":"癶 一 口 䒑 豆","dependents":"僜 凳 噔 墱 嬁 嶝 橙 櫈 澄 燈 璒 瞪 磴 簦 艠 覴 證 蹬 鄧 鐙 隥 鼟"}
-{"character":"發","pattern":"⿱","composition":"癶","dependencies":"癶","dependents":"墢 廢 撥 潑 癈 蕟 襏 醱 鏺 驋"}
+{"character":"發","pattern":"⿹","composition":"弓","dependencies":"癶 几 又 殳 弓","dependents":"墢 廢 撥 潑 癈 蕟 襏 醱 鏺 驋"}
 {"character":"白","pattern":"","composition":"","dependencies":"","dependents":"伯 佰 偕 偟 兜 兠 凮 凰 劰 匓 卽 卿 厡 咟 唕 喈 喞 喤 堦 堭 墍 媓 宿 岶 帕 帛 幫 廏 廹 弼 徨 怕 惶 慴 拍 揩 摺 擽 暤 暭 曁 柏 栢 梍 棉 楷 楻 楽 楾 槢 槹 樂 檪 檰 櫟 泉 泊 洦 湝 湟 湶 澔 濼 灥 煌 熠 爍 狛 珀 瑝 瓸 畠 百 皀 皁 皃 的 皅 皆 皇 皈 皋 皌 皍 皎 皐 皓 皕 皖 皙 皚 皛 皜 皝 皞 皟 皠 皡 皢 皣 皤 皥 皦 皧 皨 皪 皭 碧 磖 礫 稭 竡 箔 篁 篼 粕 粨 絈 綿 線 緜 縮 習 翫 腺 舶 艎 葟 葩 蓿 薬 藐 藠 藥 蘤 蝗 衋 袙 褶 諧 貊 貌 蹜 躒 轢 迫 遑 邈 鄕 鉑 錦 鍇 鍠 鏥 鑠 陌 隍 階 魄 鮊 鰉 㒵 㚖 㾮 䅣 𠷡 𡈁 𣟿 𣪘 𤭯 𧃴"}
 {"character":"百","pattern":"⿱","composition":"一 白","dependencies":"一 白","dependents":"佰 咟 宿 弼 栢 洦 瓸 皕 竡 粨 縮 蓿 衋 貊 蹜 鏥 陌 𠷡 𧃴"}
 {"character":"皀","pattern":"⿱","composition":"白 匕","dependencies":"白 匕","dependents":"匓 卽 卿 喞 墍 廏 曁 鄕 𣪘"}
@@ -6862,7 +6862,7 @@
 {"character":"磊","pattern":"⿱","composition":"石","dependencies":"石","dependents":""}
 {"character":"磋","pattern":"⿰","composition":"石 差","dependencies":"石 工 差","dependents":""}
 {"character":"磌","pattern":"⿰","composition":"石 真","dependencies":"石 十 目 具 真","dependents":""}
-{"character":"磎","pattern":"⿰","composition":"石 奚","dependencies":"石 大 奚","dependents":""}
+{"character":"磎","pattern":"⿰","composition":"石 奚","dependencies":"石 爫 幺 大 奚","dependents":""}
 {"character":"磐","pattern":"⿱","composition":"般 石","dependencies":"舟 几 又 殳 般 石","dependents":""}
 {"character":"磑","pattern":"⿰","composition":"石 豈","dependencies":"石 山 一 口 䒑 豆 豈","dependents":""}
 {"character":"磒","pattern":"⿰","composition":"石 員","dependencies":"石 口 貝 員","dependents":""}
@@ -6899,7 +6899,7 @@
 {"character":"礇","pattern":"⿰","composition":"石 奧","dependencies":"石 大 奧","dependents":""}
 {"character":"礌","pattern":"⿰","composition":"石 雷","dependencies":"石 雨 田 雷","dependents":""}
 {"character":"礎","pattern":"⿰","composition":"石 楚","dependencies":"石 木 林 疋 楚","dependents":""}
-{"character":"礐","pattern":"⿱","composition":"𦥯 石","dependencies":"𦥑 爻 冖 𦥯 石","dependents":""}
+{"character":"礐","pattern":"⿱","composition":"𦥯 石","dependencies":"𦥑 冖 爻 𦥯 石","dependents":""}
 {"character":"礑","pattern":"⿰","composition":"石 當","dependencies":"石 小 冖 口 田 當","dependents":""}
 {"character":"礒","pattern":"⿰","composition":"石 義","dependencies":"石 䒑 土 𦍌 我 義","dependents":""}
 {"character":"礙","pattern":"⿰","composition":"石 疑","dependencies":"石 匕 矢 疑","dependents":""}
@@ -8209,7 +8209,7 @@
 {"character":"膈","pattern":"⿰","composition":"鬲","dependencies":"鬲","dependents":""}
 {"character":"膊","pattern":"⿰","composition":"尃","dependencies":"甫 寸 尃","dependents":""}
 {"character":"膋","pattern":"⿱","composition":"𤇾","dependencies":"火 冖 𤇾","dependents":""}
-{"character":"膎","pattern":"⿰","composition":"奚","dependencies":"大 奚","dependents":""}
+{"character":"膎","pattern":"⿰","composition":"奚","dependencies":"爫 幺 大 奚","dependents":""}
 {"character":"膏","pattern":"⿱","composition":"高","dependencies":"亠 口 冂 高","dependents":""}
 {"character":"膐","pattern":"⿱","composition":"旅 肉","dependencies":"方 丿 一 𠂉 旅 肉","dependents":""}
 {"character":"膓","pattern":"⿰","composition":"","dependencies":"丿 一 𠂉 日 勹 勿 昜","dependents":""}
@@ -8821,7 +8821,7 @@
 {"character":"蕜","pattern":"⿱","composition":"艹 悲","dependencies":"艹 非 心 悲","dependents":""}
 {"character":"蕝","pattern":"⿱","composition":"艹","dependencies":"艹 糸","dependents":""}
 {"character":"蕞","pattern":"⿱","composition":"艹 最","dependencies":"艹 日 耳 又 取 最","dependents":""}
-{"character":"蕟","pattern":"⿱","composition":"艹 發","dependencies":"艹 癶 發","dependents":""}
+{"character":"蕟","pattern":"⿱","composition":"艹 發","dependencies":"艹 癶 几 又 殳 弓 發","dependents":""}
 {"character":"蕠","pattern":"⿱","composition":"艹 絮","dependencies":"艹 女 口 如 糸 絮","dependents":""}
 {"character":"蕡","pattern":"⿱","composition":"艹 賁","dependencies":"艹 十 廾 卉 貝 賁","dependents":""}
 {"character":"蕢","pattern":"⿱","composition":"艹 貴","dependencies":"艹 中 一 貝 貴","dependents":""}
@@ -9155,7 +9155,7 @@
 {"character":"螄","pattern":"⿰","composition":"虫 師","dependencies":"虫 𠂤 一 巾 帀 師","dependents":""}
 {"character":"螅","pattern":"⿰","composition":"虫 息","dependencies":"虫 自 心 息","dependents":""}
 {"character":"螆","pattern":"⿰","composition":"虫 茲","dependencies":"虫 艹 幺 茲","dependents":""}
-{"character":"螇","pattern":"⿰","composition":"虫 奚","dependencies":"虫 大 奚","dependents":""}
+{"character":"螇","pattern":"⿰","composition":"虫 奚","dependencies":"虫 爫 幺 大 奚","dependents":""}
 {"character":"螈","pattern":"⿰","composition":"虫 原","dependencies":"虫 厂 原","dependents":""}
 {"character":"螉","pattern":"⿰","composition":"虫 翁","dependencies":"虫 八 厶 公 羽 翁","dependents":""}
 {"character":"螋","pattern":"⿰","composition":"虫 叟","dependencies":"虫 丨 𦥑 又 叟","dependents":""}
@@ -9436,7 +9436,7 @@
 {"character":"襉","pattern":"⿰","composition":"衤","dependencies":"衤 門 月","dependents":""}
 {"character":"襌","pattern":"⿰","composition":"衤 單","dependencies":"衤 口 單","dependents":""}
 {"character":"襍","pattern":"⿰","composition":"衤 集","dependencies":"衤 隹 木 集","dependents":""}
-{"character":"襏","pattern":"⿰","composition":"衤 發","dependencies":"衤 癶 發","dependents":""}
+{"character":"襏","pattern":"⿰","composition":"衤 發","dependencies":"衤 癶 几 又 殳 弓 發","dependents":""}
 {"character":"襒","pattern":"⿰","composition":"衤 敝","dependencies":"衤 㡀 攵 敝","dependents":""}
 {"character":"襖","pattern":"⿰","composition":"衤 奧","dependencies":"衤 大 奧","dependents":""}
 {"character":"襗","pattern":"⿰","composition":"衤 睪","dependencies":"衤 土 丶 丿 干 幸 睪","dependents":""}
@@ -9506,7 +9506,7 @@
 {"character":"覵","pattern":"⿰","composition":"見","dependencies":"門 月 見","dependents":""}
 {"character":"覶","pattern":"⿰","composition":"見","dependencies":"爫 又 禸 見","dependents":""}
 {"character":"覷","pattern":"⿰","composition":"虚 見","dependencies":"虍 虚 見","dependents":""}
-{"character":"覺","pattern":"⿱","composition":"𦥯 見","dependencies":"𦥑 爻 冖 𦥯 見","dependents":"攪"}
+{"character":"覺","pattern":"⿱","composition":"𦥯 見","dependencies":"𦥑 冖 爻 𦥯 見","dependents":"攪"}
 {"character":"覼","pattern":"⿰","composition":"爾 見","dependencies":"一 爾 見","dependents":""}
 {"character":"覽","pattern":"⿱","composition":"見","dependencies":"見","dependents":"攬 欖 纜"}
 {"character":"覿","pattern":"⿰","composition":"賣 見","dependencies":"士 貝 買 賣 見","dependents":""}
@@ -9738,7 +9738,7 @@
 {"character":"謍","pattern":"⿱","composition":"𤇾 言","dependencies":"火 冖 𤇾 言","dependents":""}
 {"character":"謎","pattern":"⿰","composition":"言 迷","dependencies":"言 辶 米 迷","dependents":""}
 {"character":"謐","pattern":"⿰","composition":"言","dependencies":"言 必 皿","dependents":""}
-{"character":"謑","pattern":"⿰","composition":"言 奚","dependencies":"言 大 奚","dependents":""}
+{"character":"謑","pattern":"⿰","composition":"言 奚","dependencies":"言 爫 幺 大 奚","dependents":""}
 {"character":"謔","pattern":"⿰","composition":"言 虐","dependencies":"言 虍 匚 一 虐","dependents":""}
 {"character":"謖","pattern":"⿰","composition":"言 畟","dependencies":"言 田 夂 畟","dependents":""}
 {"character":"謗","pattern":"⿰","composition":"言 旁","dependencies":"言 方 旁","dependents":""}
@@ -9834,7 +9834,7 @@
 {"character":"谺","pattern":"⿰","composition":"谷 牙","dependencies":"谷 牙","dependents":""}
 {"character":"谽","pattern":"⿰","composition":"谷 含","dependencies":"谷 𠆢 一 亼 今 口 含","dependents":""}
 {"character":"谾","pattern":"⿰","composition":"谷 空","dependencies":"谷 宀 八 穴 工 空","dependents":""}
-{"character":"谿","pattern":"⿰","composition":"奚 谷","dependencies":"大 奚 谷","dependents":""}
+{"character":"谿","pattern":"⿰","composition":"奚 谷","dependencies":"爫 幺 大 奚 谷","dependents":""}
 {"character":"豁","pattern":"⿰","composition":"害 谷","dependencies":"宀 丰 口 害 谷","dependents":""}
 {"character":"豅","pattern":"⿰","composition":"谷 龍","dependencies":"谷 龍","dependents":""}
 {"character":"豆","pattern":"⿱ ⿱","composition":"一 口 䒑","dependencies":"一 口 䒑","dependents":"僖 僜 凒 凱 凳 剅 剴 厨 喜 嘉 嘻 噔 嚭 嚱 囍 囏 塏 墱 壴 嬁 嬉 尌 嶝 巇 幮 廚 彭 愷 憘 憙 戲 暟 暿 梪 榿 樹 橙 橱 橲 櫈 櫉 歖 澄 澍 澎 澧 灃 灎 灔 灩 熹 熺 燈 獃 璒 痘 登 皚 皷 瞪 瞽 短 磑 磴 禧 禮 簦 糦 繥 脰 膨 艠 艶 艷 荳 螘 蟚 蟢 蟵 裋 覬 覴 譆 證 豇 豈 豉 豊 豋 豌 豎 豏 豐 豑 豓 豔 蹬 蹰 躕 軆 逗 鄧 鄷 酆 醴 鋀 鎧 鐙 闓 闘 闦 隑 隥 霻 靊 頭 顗 餖 饎 體 鬪 鱚 鱧 鼓 鼔 鼕 鼖 鼗 鼙 鼚 鼛 鼟 㡡"}
@@ -10116,7 +10116,7 @@
 {"character":"蹇","pattern":"⿱","composition":"足","dependencies":"宀 三 丨 八 口 足","dependents":"攓"}
 {"character":"蹈","pattern":"⿰","composition":"𧾷 舀","dependencies":"口 止 𧾷 爫 臼 舀","dependents":""}
 {"character":"蹉","pattern":"⿰","composition":"𧾷 差","dependencies":"口 止 𧾷 工 差","dependents":""}
-{"character":"蹊","pattern":"⿰","composition":"𧾷 奚","dependencies":"口 止 𧾷 大 奚","dependents":""}
+{"character":"蹊","pattern":"⿰","composition":"𧾷 奚","dependencies":"口 止 𧾷 爫 幺 大 奚","dependents":""}
 {"character":"蹋","pattern":"⿰","composition":"𧾷","dependencies":"口 止 𧾷 日 羽","dependents":""}
 {"character":"蹌","pattern":"⿰","composition":"𧾷 倉","dependencies":"口 止 𧾷 𠆢 一 亼 合 倉","dependents":""}
 {"character":"蹍","pattern":"⿰","composition":"𧾷 展","dependencies":"口 止 𧾷 尸 展","dependents":""}
@@ -10661,7 +10661,7 @@
 {"character":"醮","pattern":"⿰","composition":"酉 焦","dependencies":"酉 隹 灬 焦","dependents":"蘸"}
 {"character":"醯","pattern":"⿰ ⿱","composition":"酉 㐬 皿","dependencies":"酉 厶 一 𠫓 儿 丨 㐬 皿","dependents":""}
 {"character":"醰","pattern":"⿰","composition":"酉 覃","dependencies":"酉 覀 日 十 早 覃","dependents":""}
-{"character":"醱","pattern":"⿰","composition":"酉 發","dependencies":"酉 癶 發","dependents":""}
+{"character":"醱","pattern":"⿰","composition":"酉 發","dependencies":"酉 癶 几 又 殳 弓 發","dependents":""}
 {"character":"醲","pattern":"⿰","composition":"酉 農","dependencies":"酉 曲 辰 農","dependents":""}
 {"character":"醳","pattern":"⿰","composition":"酉 睪","dependencies":"酉 土 丶 丿 干 幸 睪","dependents":""}
 {"character":"醴","pattern":"⿰","composition":"酉 豊","dependencies":"酉 曲 一 口 䒑 豆 豊","dependents":""}
@@ -11051,7 +11051,7 @@
 {"character":"鏷","pattern":"⿰","composition":"金 菐","dependencies":"金 䒑 夫 菐","dependents":""}
 {"character":"鏸","pattern":"⿰","composition":"金 惠","dependencies":"金 心 惠","dependents":""}
 {"character":"鏹","pattern":"⿰","composition":"金","dependencies":"金 弓 口 虫","dependents":""}
-{"character":"鏺","pattern":"⿰","composition":"金 發","dependencies":"金 癶 發","dependents":""}
+{"character":"鏺","pattern":"⿰","composition":"金 發","dependencies":"金 癶 几 又 殳 弓 發","dependents":""}
 {"character":"鏻","pattern":"⿰","composition":"金 粦","dependencies":"金 米 夕 舛 粦","dependents":""}
 {"character":"鏽","pattern":"⿰","composition":"金 肅","dependencies":"金 聿 一 肅","dependents":""}
 {"character":"鐁","pattern":"⿰","composition":"金 斯","dependencies":"金 其 斤 斯","dependents":""}
@@ -11345,7 +11345,7 @@
 {"character":"雛","pattern":"⿰","composition":"芻 隹","dependencies":"芻 隹","dependents":""}
 {"character":"雜","pattern":"⿽","composition":"椎","dependencies":"木 隹 椎 亠 人 从","dependents":"囃"}
 {"character":"雝","pattern":"⿰","composition":"邕 隹","dependencies":"巛 邑 邕 隹","dependents":"廱 灉 癰"}
-{"character":"雞","pattern":"⿰","composition":"奚 隹","dependencies":"大 奚 隹","dependents":""}
+{"character":"雞","pattern":"⿰","composition":"奚 隹","dependencies":"爫 幺 大 奚 隹","dependents":""}
 {"character":"雟","pattern":"⿳","composition":"屮 隹 冏","dependencies":"屮 隹 口 冏","dependents":""}
 {"character":"離","pattern":"⿰","composition":"离 隹","dependencies":"亠 凵 凶 禸 离 隹","dependents":"灕 籬 蘺"}
 {"character":"難","pattern":"⿰","composition":"𦰩 隹","dependencies":"艹 𦰩 隹","dependents":"儺 戁 攤 灘 癱 臡"}
@@ -11481,7 +11481,7 @@
 {"character":"鞲","pattern":"⿰","composition":"革 冓","dependencies":"革 三 丨 冉 冓","dependents":""}
 {"character":"鞳","pattern":"⿰","composition":"革 荅","dependencies":"革 艹 𠆢 一 亼 口 合 荅","dependents":""}
 {"character":"鞴","pattern":"⿰","composition":"革","dependencies":"革 一 丿 用","dependents":""}
-{"character":"鞵","pattern":"⿰","composition":"革 奚","dependencies":"革 大 奚","dependents":""}
+{"character":"鞵","pattern":"⿰","composition":"革 奚","dependencies":"革 爫 幺 大 奚","dependents":""}
 {"character":"鞶","pattern":"⿱","composition":"般 革","dependencies":"舟 几 又 殳 般 革","dependents":""}
 {"character":"鞸","pattern":"⿰","composition":"革 畢","dependencies":"革 畢","dependents":""}
 {"character":"鞹","pattern":"⿰","composition":"革 郭","dependencies":"革 亠 口 子 享 郭","dependents":""}
@@ -11824,7 +11824,7 @@
 {"character":"騭","pattern":"⿱","composition":"陟 馬","dependencies":"止 步 陟 馬","dependents":""}
 {"character":"騮","pattern":"⿰","composition":"馬 留","dependencies":"馬 田 留","dependents":""}
 {"character":"騰","pattern":"⿸","composition":"馬","dependencies":"月 𠔉 馬","dependents":""}
-{"character":"騱","pattern":"⿰","composition":"馬 奚","dependencies":"馬 大 奚","dependents":""}
+{"character":"騱","pattern":"⿰","composition":"馬 奚","dependencies":"馬 爫 幺 大 奚","dependents":""}
 {"character":"騳","pattern":"⿰","composition":"馬 馬","dependencies":"馬","dependents":""}
 {"character":"騵","pattern":"⿰","composition":"馬 原","dependencies":"馬 厂 原","dependents":""}
 {"character":"騶","pattern":"⿰","composition":"馬 芻","dependencies":"馬 芻","dependents":""}
@@ -11839,7 +11839,7 @@
 {"character":"驅","pattern":"⿰","composition":"馬 區","dependencies":"馬 匚 口 品 區","dependents":""}
 {"character":"驇","pattern":"⿱","composition":"埶 馬","dependencies":"土 儿 圥 坴 丸 埶 馬","dependents":""}
 {"character":"驊","pattern":"⿰","composition":"馬 華","dependencies":"馬 艹 華","dependents":""}
-{"character":"驋","pattern":"⿰","composition":"馬 發","dependencies":"馬 癶 發","dependents":""}
+{"character":"驋","pattern":"⿰","composition":"馬 發","dependencies":"馬 癶 几 又 殳 弓 發","dependents":""}
 {"character":"驌","pattern":"⿰","composition":"馬 肅","dependencies":"馬 聿 一 肅","dependents":""}
 {"character":"驍","pattern":"⿰","composition":"馬 堯","dependencies":"馬 土 垚 兀 堯","dependents":""}
 {"character":"驎","pattern":"⿰","composition":"馬 粦","dependencies":"馬 米 夕 舛 粦","dependents":""}
@@ -12167,7 +12167,7 @@
 {"character":"鱜","pattern":"⿰","composition":"魚","dependencies":"魚","dependents":""}
 {"character":"鱝","pattern":"⿰","composition":"魚 賁","dependencies":"魚 十 廾 卉 貝 賁","dependents":""}
 {"character":"鱞","pattern":"⿰","composition":"魚 睘","dependencies":"魚 睘","dependents":""}
-{"character":"鱟","pattern":"⿱","composition":"𦥯 魚","dependencies":"𦥑 爻 冖 𦥯 魚","dependents":""}
+{"character":"鱟","pattern":"⿱","composition":"𦥯 魚","dependencies":"𦥑 冖 爻 𦥯 魚","dependents":""}
 {"character":"鱠","pattern":"⿰","composition":"魚 會","dependencies":"魚 𠆢 一 亼 會","dependents":""}
 {"character":"鱣","pattern":"⿰","composition":"魚 亶","dependencies":"魚 亠 囗 口 回 日 一 旦 亶","dependents":""}
 {"character":"鱥","pattern":"⿰","composition":"魚","dependencies":"魚 止","dependents":""}
@@ -12313,7 +12313,7 @@
 {"character":"鷁","pattern":"⿰","composition":"益 鳥","dependencies":"皿 益 灬 鳥","dependents":""}
 {"character":"鷂","pattern":"⿰","composition":"䍃 鳥","dependencies":"缶 䍃 灬 鳥","dependents":""}
 {"character":"鷃","pattern":"⿰","composition":"晏 鳥","dependencies":"日 宀 女 安 晏 灬 鳥","dependents":""}
-{"character":"鷄","pattern":"⿰","composition":"奚 鳥","dependencies":"大 奚 灬 鳥","dependents":""}
+{"character":"鷄","pattern":"⿰","composition":"奚 鳥","dependencies":"爫 幺 大 奚 灬 鳥","dependents":""}
 {"character":"鷆","pattern":"⿰","composition":"眞 鳥","dependencies":"匕 目 眞 灬 鳥","dependents":""}
 {"character":"鷇","pattern":"⿹","composition":"鳥","dependencies":"几 又 殳 灬 鳥","dependents":""}
 {"character":"鷉","pattern":"⿰","composition":"虒 鳥","dependencies":"虍 儿 虎 虒 灬 鳥","dependents":""}
@@ -12345,9 +12345,9 @@
 {"character":"鷸","pattern":"⿰","composition":"矞 鳥","dependencies":"矛 口 冏 矞 灬 鳥","dependents":""}
 {"character":"鷹","pattern":"⿸","composition":"鳥","dependencies":"广 亻 隹 灬 鳥","dependents":""}
 {"character":"鷺","pattern":"⿱","composition":"路 鳥","dependencies":"口 止 𧾷 夂 各 路 灬 鳥","dependents":""}
-{"character":"鷽","pattern":"⿱","composition":"𦥯 鳥","dependencies":"𦥑 爻 冖 𦥯 灬 鳥","dependents":""}
+{"character":"鷽","pattern":"⿱","composition":"𦥯 鳥","dependencies":"𦥑 冖 爻 𦥯 灬 鳥","dependents":""}
 {"character":"鷾","pattern":"⿰","composition":"意 鳥","dependencies":"音 心 意 灬 鳥","dependents":""}
-{"character":"鸂","pattern":"⿰","composition":"溪 鳥","dependencies":"氵 大 奚 溪 灬 鳥","dependents":""}
+{"character":"鸂","pattern":"⿰","composition":"溪 鳥","dependencies":"氵 爫 幺 大 奚 溪 灬 鳥","dependents":""}
 {"character":"鸇","pattern":"⿰","composition":"亶 鳥","dependencies":"亠 囗 口 回 日 一 旦 亶 灬 鳥","dependents":""}
 {"character":"鸊","pattern":"⿰","composition":"辟 鳥","dependencies":"尸 口 辛 辟 灬 鳥","dependents":""}
 {"character":"鸍","pattern":"⿰","composition":"爾 鳥","dependencies":"一 爾 灬 鳥","dependents":""}
@@ -12421,7 +12421,7 @@
 {"character":"黆","pattern":"⿰","composition":"黄 冘","dependencies":"黄 冘","dependents":""}
 {"character":"黈","pattern":"⿰","composition":"黄 主","dependencies":"黄 丶 王 主","dependents":""}
 {"character":"黋","pattern":"⿺","composition":"光 黃","dependencies":"一 儿 光 黃","dependents":""}
-{"character":"黌","pattern":"⿱","composition":"𦥯 黃","dependencies":"𦥑 爻 冖 𦥯 黃","dependents":""}
+{"character":"黌","pattern":"⿱","composition":"𦥯 黃","dependencies":"𦥑 冖 爻 𦥯 黃","dependents":""}
 {"character":"黍","pattern":"⿱","composition":"禾","dependencies":"禾 人 氺","dependents":"嚟 瓈 藜 邌 黎 黏 黐"}
 {"character":"黎","pattern":"⿺","composition":"黍","dependencies":"禾 人 氺 黍 丿","dependents":"嚟 瓈 藜 邌"}
 {"character":"黏","pattern":"⿰","composition":"黍 占","dependencies":"禾 人 氺 黍 囗 占","dependents":""}
@@ -12489,7 +12489,7 @@
 {"character":"鼱","pattern":"⿰","composition":"鼠 青","dependencies":"鼠 青","dependents":""}
 {"character":"鼲","pattern":"⿰","composition":"鼠 軍","dependencies":"鼠 冖 車 軍","dependents":""}
 {"character":"鼴","pattern":"⿰","composition":"鼠 匽","dependencies":"鼠 匚 日 女 妟 匽","dependents":""}
-{"character":"鼷","pattern":"⿰","composition":"鼠 奚","dependencies":"鼠 大 奚","dependents":""}
+{"character":"鼷","pattern":"⿰","composition":"鼠 奚","dependencies":"鼠 爫 幺 大 奚","dependents":""}
 {"character":"鼹","pattern":"⿰","composition":"鼠 晏","dependencies":"鼠 日 宀 女 安 晏","dependents":""}
 {"character":"鼺","pattern":"⿰","composition":"鼠 畾","dependencies":"鼠 田 畾","dependents":""}
 {"character":"鼻","pattern":"⿱","composition":"自 畀","dependencies":"自 田 丌 畀","dependents":"劓 嚊 嬶 擤 濞 襣 鼼 鼽 鼾 鼿 齁 齃 齄 齅 齆 齇 𡽶"}
@@ -12921,7 +12921,7 @@
 {"character":"𦣝","pattern":"","composition":"","dependencies":"","dependents":"巸 弬 煕 熙"}
 {"character":"𦣪","pattern":"⿰","composition":"臣","dependencies":"臣 丿 一 𠂉 口 皿","dependents":""}
 {"character":"𦥑","pattern":"","composition":"","dependencies":"","dependents":"傁 叟 嚳 夓 嫂 學 庾 廋 惥 搜 攪 斅 楰 溲 瘦 盥 瞍 礐 腴 膄 臾 艘 萸 螋 覺 諛 颼 鱟 鷽 黌 𦥯"}
-{"character":"𦥯","pattern":"⿱ ⿻","composition":"𦥑 爻 冖","dependencies":"𦥑 爻 冖","dependents":"嚳 學 攪 斅 礐 覺 鱟 鷽 黌"}
+{"character":"𦥯","pattern":"⿶ ⿱","composition":"𦥑 冖 爻","dependencies":"𦥑 冖 爻","dependents":"嚳 學 攪 斅 礐 覺 鱟 鷽 黌"}
 {"character":"𦧝","pattern":"⿰","composition":"舌 延","dependencies":"舌 廴 延","dependents":""}
 {"character":"𦨞","pattern":"⿰","composition":"舟 元","dependencies":"舟 一 兀 元","dependents":""}
 {"character":"𦩘","pattern":"⿰","composition":"舟 定","dependencies":"舟 宀 一 定","dependents":""}
