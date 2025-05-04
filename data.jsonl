@@ -2210,7 +2210,7 @@
 {"character":"安","pattern":"⿱","composition":"宀 女","dependencies":"宀 女","dependents":"侒 咹 姲 按 晏 案 桉 氨 胺 銨 鞍 頞 鮟 鴳 鷃 鼹"}
 {"character":"宊","pattern":"⿱","composition":"宀 犬","dependencies":"宀 犬","dependents":""}
 {"character":"宋","pattern":"⿱","composition":"宀 木","dependencies":"宀 木","dependents":""}
-{"character":"完","pattern":"⿱","composition":"宀 元","dependencies":"宀 一 兀 元","dependents":"俒 唍 垸 寇 晥 梡 浣 琓 皖 睆 筦 簆 羦 脘 莞 輐 鋎 院 鯇"}
+{"character":"完","pattern":"⿱","composition":"宀 元","dependencies":"宀 一 兀 元","dependents":"俒 唍 垸 宼 寇 晥 梡 浣 琓 皖 睆 筦 簆 羦 脘 莞 輐 鋎 院 鯇"}
 {"character":"宍","pattern":"⿱","composition":"宀 六","dependencies":"宀 亠 六","dependents":""}
 {"character":"宎","pattern":"⿱","composition":"宀 夭","dependencies":"宀 丿 大 夭","dependents":""}
 {"character":"宏","pattern":"⿱","composition":"宀 厷","dependencies":"宀 厶 厷","dependents":"浤 硡 綋 鋐"}
@@ -2249,8 +2249,8 @@
 {"character":"宷","pattern":"⿱","composition":"宀 釆","dependencies":"宀 釆","dependents":""}
 {"character":"宸","pattern":"⿱","composition":"宀 辰","dependencies":"宀 辰","dependents":""}
 {"character":"容","pattern":"⿱","composition":"宀 谷","dependencies":"宀 谷","dependents":"傛 嫆 愹 榕 溶 熔 瑢 穃 蓉 鎔 㮤 𨉷"}
-{"character":"宺","pattern":"⿳","composition":"宀","dependencies":"宀 儿 丨","dependents":""}
-{"character":"宼","pattern":"⿱ ⿺","composition":"宀 元 女","dependencies":"宀 一 兀 元 女","dependents":""}
+{"character":"宺","pattern":"⿱","composition":"宀","dependencies":"宀 儿 丨","dependents":""}
+{"character":"宼","pattern":"⿷","composition":"完 女","dependencies":"宀 一 兀 元 完 女","dependents":""}
 {"character":"宿","pattern":"⿱","composition":"宀 佰","dependencies":"宀 亻 一 白 百 佰","dependents":"縮 蓿 蹜 鏥 𧃴"}
 {"character":"寀","pattern":"⿱","composition":"宀 采","dependencies":"宀 爫 木 采","dependents":""}
 {"character":"寁","pattern":"⿱","composition":"宀 疌","dependencies":"宀 疌","dependents":""}
