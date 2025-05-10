@@ -1,3 +1,16 @@
+This project was built with data from the KANJIDIC2 dictionary file. This file
+is the property of the Electronic Dictionary Research and Development Group
+(EDRDG), and is used in conformance with the Group's license. See the links
+below for more information.
+
+http://www.edrdg.org/
+
+http://www.edrdg.org/wiki/index.php/KANJIDIC_Project
+
+http://www.edrdg.org/edrdg/licence.html
+
+---
+
 This project was built with data from the CHISE-IDS project.
 
 https://gitlab.chise.org/CHISE/ids
@@ -24,16 +37,3 @@ The developing of the package was supported by the "Exploratory Software
 Project" of Information-technology Promotion Agency, Japan. Some data in the
 IDS-UCS* files are derived and expanded from the CDP database developed by C.C.
 Hsieh and his team at Academia Sinica in Taipei, Taiwan.
-
----
-
-This project was built with data from the KANJIDIC2 dictionary file. This file
-is the property of the Electronic Dictionary Research and Development Group
-(EDRDG), and is used in conformance with the Group's license. See the links
-below for more information.
-
-http://www.edrdg.org/
-
-http://www.edrdg.org/wiki/index.php/KANJIDIC_Project
-
-http://www.edrdg.org/edrdg/licence.html
